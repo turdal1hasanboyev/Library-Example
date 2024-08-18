@@ -1,6 +1,6 @@
 from django.urls import path
 
-from api.views import BookAPIView
+from .views import BookAPIView
 
 
 urlpatterns = [
